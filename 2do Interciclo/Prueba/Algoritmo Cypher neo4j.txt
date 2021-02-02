@@ -2,102 +2,103 @@
 
 CREATE (a:Station {name: 'Viña Quito', latitude: -0.2032084, longitude: -78.4960131 }),
 (b:Station {name: 'Parque Gral. Julio Andrade', latitude: -0.2012698, longitude: -78.4988232}),
-(c:Station {name: 'El Hornero', latitude: -0.2012698, longitude: -78.4988232}),
-(d:Station {name: 'Reina Isabel', latitude: -0.2012698, longitude: -78.4988232}),
-(e:Station {name: 'Caravana Fast Food', latitude: -0.2012698, longitude: -78.4988232}),
-(f:Station {name: 'El Oro Restaurante', latitude: -0.2012698, longitude: -78.4988232}),
-(g:Station {name: 'Las Delicias del Verde', latitude: -0.2012698, longitude: -78.4988232}),
-(h:Station {name: 'Zentrum', latitude: -0.2012698, longitude: -78.4988232}),
-(i:Station {name: 'Colibri Bar Restaurante', latitude: -0.2012698, longitude: -78.4988232}),
-(j:Station {name: 'Toronto Bufe', latitude: -0.2012698, longitude: -78.4988232}),
-(k:Station {name: 'EL Brasero', latitude: -0.2012698, longitude: -78.4988232}),
-(l:Station {name: 'Patatus', latitude: -0.2012698, longitude: -78.4988232}),
-(m:Station {name: 'Los Cevichochos de la Veintimilla', latitude: -0.2012698, longitude: -78.4988232}),
-(n:Station {name: 'Chifa China', latitude: -0.2012698, longitude: -78.4988232}),
-(o:Station {name: 'The Buffet', latitude: -0.2012698, longitude: -78.4988232}),
-(p:Station {name: 'Hotel Casa Kolping Quito', latitude: -0.2012698, longitude: -78.4988232}),
-(q1:Station {name: 'La Casa del Cangrejo', latitude: -0.2012698, longitude: -78.4988232}),
-(r:Station {name: 'Meson San Gabriel', latitude: -0.2012698, longitude: -78.4988232}),
-(s:Station {name: 'Los Pinchos de la Colon', latitude: -0.2012698, longitude: -78.4988232}),
-(t:Station {name: 'Parrillada Columbus', latitude: -0.2012698, longitude: -78.4988232}),
-(u:Station {name: 'Soul Taste', latitude: -0.2012698, longitude: -78.4988232}),
-(v:Station {name: 'Empanadas Badillo', latitude: -0.2012698, longitude: -78.4988232}),
-(w:Station {name: 'Hotel Rio Amazonas Quito', latitude: -0.2012698, longitude: -78.4988232}),
-(x:Station {name: 'Miskay Ecuatoriana', latitude: -0.2012698, longitude: -78.4988232}),
-(y:Station {name: 'Algodon de Azucar', latitude: -0.2012698, longitude: -78.4988232}),
-(z:Station {name: 'Posada Tambuca', latitude: -0.2012698, longitude: -78.4988232}),
-(a1:Station {name: 'La Empanaderia', latitude: -0.2012698, longitude: -78.4988232}),
-(a2:Station {name: 'Restaurante Cafeteria Puerto Fino', latitude: -0.2012698, longitude: -78.4988232}),
-(a3:Station {name: 'Park Inn by Radisson Quito', latitude: -0.2012698, longitude: -78.4988232}),
-(a4:Station {name: 'Papa Jhons', latitude: -0.2012698, longitude: -78.4988232}),
-(a5:Station {name: 'Hotel Cayman', latitude: -0.2012698, longitude: -78.4988232}),
+(c:Station {name: 'El Hornero', latitude: -0.2151293, longitude: -78.3909213}),
+(d:Station {name: 'Reina Isabel', latitude: -0.2025578, longitude: -78.4958576}),
+(e:Station {name: 'Caravana Fast Food', latitude: -0.200602, longitude: -78.4989935}),
+(f:Station {name: 'El Oro Restaurante', latitude: -0.1993852, longitude: -78.4955419}),
+(g:Station {name: 'Las Delicias del Verde', latitude: -0.2011226, longitude: -78.4976671}),
+(h:Station {name: 'Zentrum', latitude: -0.200527, longitude: -78.4963487}),
+(i:Station {name: 'Colibri Bar Restaurante', latitude: -0.2007577, longitude: -78.4955442}),
+(j:Station {name: 'Toronto Bufe', latitude: -0.1990628, longitude: -78.4955405}),
+(k:Station {name: 'EL Brasero', latitude: -0.199791, longitude: -78.4946572}),
+(l:Station {name: 'Patatus', latitude: -0.2021858, longitude: -78.4947421}),
+(m:Station {name: 'Los Cevichochos de la Veintimilla', latitude: -0.203427, longitude: -78.4954235}),
+(n:Station {name: 'Chifa China', latitude: -0.2012142, longitude: -78.5015671}),
+(o:Station {name: 'The Buffet', latitude: -0.2005651, longitude: -78.499493}),
+(p:Station {name: 'Hotel Casa Kolping Quito', latitude: -0.1995012, longitude: -78.4971393}),
+(q1:Station {name: 'La Casa del Cangrejo', latitude: -0.2002372, longitude: -78.4964119}),
+(r:Station {name: 'Meson San Gabriel', latitude: -0.2001662, longitude: -78.4961156}),
+(s:Station {name: 'Los Pinchos de la Colon', latitude: -0.1986444, longitude: -78.4974881}),
+(t:Station {name: 'Parrillada Columbus', latitude: -0.1988264, longitude: -78.4927815}),
+(u:Station {name: 'Soul Taste', latitude: -0.2009667, longitude: -78.4947503}),
+(v:Station {name: 'Empanadas Badillo', latitude: -0.201285, longitude: -78.4943697}),
+(w:Station {name: 'Hotel Rio Amazonas Quito', latitude: -0.2009727, longitude: -78.493282}),
+(x:Station {name: 'Miskay Ecuatoriana', latitude: -0.2030392, longitude: -78.493693}),
+(y:Station {name: 'Algodon de Azucar', latitude: -0.2041641, longitude: -78.4957526}),
+(z:Station {name: 'Posada Tambuca', latitude: -0.1993206, longitude: -78.4973177}),
+(a1:Station {name: 'La Empanaderia', latitude: -0.1985501, longitude: -78.495807}),
+(a2:Station {name: 'Restaurante Cafeteria Puerto Fino', latitude: -0.2006459, longitude: -78.4946134}),
+(a3:Station {name: 'Park Inn by Radisson Quito', latitude: -0.2024758, longitude: -78.4927746}),
+(a4:Station {name: 'Papa Jhons', latitude: -0.1998218, longitude: -78.4922608}),
+(a5:Station {name: 'Hotel Cayman', latitude: -0.2023739, longitude: -78.4914729}),
 (a6:Station {name: 'EA', latitude: -0.2012698, longitude: -78.4988232}),
 (a7:Station {name: 'BM', latitude: -0.2012698, longitude: -78.4988232}),
-(a8:Station {name: 'Mosquera Andy Joel Restaurante', latitude: -0.2012698, longitude: -78.4988232}),
-(a9:Station {name: 'Embassy Quito', latitude: -0.2012698, longitude: -78.4988232}),
-(a10:Station {name: 'El Gran Kaiser', latitude: -0.2012698, longitude: -78.4988232}),
-(a11:Station {name: 'Pizzeria y Burritos', latitude: -0.2012698, longitude: -78.4988232}),
+(a8:Station {name: 'Mosquera Andy Joel Restaurante', latitude: -0.2002, longitude: -78.4948343}),
+(a9:Station {name: 'Embassy Quito', latitude: -0.2044472, longitude: -78.4936862}),
+(a10:Station {name: 'El Gran Kaiser', latitude: -0.203671, longitude: -78.4942406}),
+(a11:Station {name: 'Pizzeria y Burritos', latitude: -0.2040679, longitude: -78.4933308}),
 (a12:Station {name: 'EH', latitude: -0.2012698, longitude: -78.4988232}),
-(a13:Station {name: 'Parque la Carolina', latitude: -0.2012698, longitude: -78.4988232}),
-(a14:Station {name: 'Museo de los Dinosaurios', latitude: -0.2012698, longitude: -78.4988232}),
-(a15:Station {name: 'Tortas y Tartas', latitude: -0.2012698, longitude: -78.4988232}),
+(a13:Station {name: 'Parque la Carolina', latitude: -0.18016, longitude: -78.48362}),
+(a14:Station {name: 'Museo de los Dinosaurios', latitude: -0.1861754, longitude: -78.4852417}),
+(a15:Station {name: 'Tortas y Tartas', latitude: -0.2038994, longitude: -78.4937736}),
 (a16:Station {name: 'CA', latitude: -0.2012698, longitude: -78.4988232}),
-
-(a)-[:ROAD {time: 1.1}]->(b),
-(a)-[:ROAD {time: 1.2}]->(c),
-(a)-[:ROAD {time: 1.1}]->(d),
-(b)-[:ROAD {time: 1.1}]->(e),
-(b)-[:ROAD {time: 1.1}]->(f),
-(b)-[:ROAD {time: 1.1}]->(g),
-(c)-[:ROAD {time: 1.1}]->(h),
-(c)-[:ROAD {time: 1.1}]->(i),
-(d)-[:ROAD {time: 1.1}]->(j),
-(d)-[:ROAD {time: 1.1}]->(k),
-(d)-[:ROAD {time: 1.1}]->(l),
-(e)-[:ROAD {time: 1.1}]->(n),
-(e)-[:ROAD {time: 1.1}]->(o),
-(f)-[:ROAD {time: 1.1}]->(o),
-(f)-[:ROAD {time: 1.1}]->(p),
-(g)-[:ROAD {time: 1.1}]->(q1),
-(g)-[:ROAD {time: 1.1}]->(c),
-(h)-[:ROAD {time: 1.1}]->(r),
-(h)-[:ROAD {time: 1.1}]->(i),
-(h)-[:ROAD {time: 1.1}]->(q1),
-(i)-[:ROAD {time: 1.1}]->(s),
-(i)-[:ROAD {time: 1.1}]->(j),
-(i)-[:ROAD {time: 1.1}]->(k),
-(j)-[:ROAD {time: 1.1}]->(k),
-(j)-[:ROAD {time: 1.1}]->(s),
-(k)-[:ROAD {time: 1.1}]->(l),
-(k)-[:ROAD {time: 1.1}]->(t),
-(l)-[:ROAD {time: 1.1}]->(u),
-(l)-[:ROAD {time: 1.1}]->(v),
-(l)-[:ROAD {time: 1.1}]->(w),
-(m)-[:ROAD {time: 1.1}]->(x),
-(m)-[:ROAD {time: 1.1}]->(y),
-(p)-[:ROAD {time: 1.1}]->(z),
-(r)-[:ROAD {time: 1.1}]->(s),
-(s)-[:ROAD {time: 1.1}]->(a1),
-(t)-[:ROAD {time: 1.1}]->(a14),
-(u)-[:ROAD {time: 1.1}]->(a2),
-(u)-[:ROAD {time: 1.1}]->(v),
-(w)-[:ROAD {time: 1.1}]->(a3),
-(w)-[:ROAD {time: 1.1}]->(a4),
-(x)-[:ROAD {time: 1.1}]->(y),
-(x)-[:ROAD {time: 1.1}]->(l),
-(y)-[:ROAD {time: 1.1}]->(a7),
-(a1)-[:ROAD {time: 1.1}]->(a13),
-(a2)-[:ROAD {time: 1.1}]->(a8),
-(a7)-[:ROAD {time: 1.1}]->(a9),
-(a7)-[:ROAD {time: 1.1}]->(a10),
-(a9)-[:ROAD {time: 1.1}]->(a11),
-(a10)-[:ROAD {time: 1.1}]->(a12),
-(a11)-[:ROAD {time: 1.1}]->(a15),
-(a12)-[:ROAD {time: 1.1}]->(a16);
+(a)-[:ROAD {time: 219}]->(b),
+(a)-[:ROAD {time: 197}]->(c),
+(a)-[:ROAD {time: 261}]->(d),
+(b)-[:ROAD {time: 74}]->(e),
+(b)-[:ROAD {time: 245}]->(f),
+(b)-[:ROAD {time: 130}]->(g),
+(c)-[:ROAD {time: 181}]->(h),
+(c)-[:ROAD {time: 196}]->(i),
+(d)-[:ROAD {time: 133}]->(k),
+(d)-[:ROAD {time: 136}]->(l),
+(d)-[:ROAD {time: 111}]->(m),
+(e)-[:ROAD {time: 291}]->(n),
+(e)-[:ROAD {time: 56}]->(o),
+(f)-[:ROAD {time: 244}]->(o),
+(f)-[:ROAD {time: 56}]->(p),
+(g)-[:ROAD {time: 202}]->(q1),
+(g)-[:ROAD {time: 166}]->(c),
+(h)-[:ROAD {time: 54}]->(r),
+(h)-[:ROAD {time: 138}]->(i),
+(h)-[:ROAD {time: 34}]->(q1),
+(i)-[:ROAD {time: 138}]->(s),
+(i)-[:ROAD {time: 40}]->(j),
+(i)-[:ROAD {time: 147}]->(k),
+(j)-[:ROAD {time: 132}]->(k),
+(j)-[:ROAD {time: 308}]->(s),
+(k)-[:ROAD {time: 40}]->(l),
+(k)-[:ROAD {time: 82}]->(t),
+(l)-[:ROAD {time: 130}]->(u),
+(l)-[:ROAD {time: 249}]->(v),
+(l)-[:ROAD {time: 205}]->(w),
+(m)-[:ROAD {time: 199}]->(x),
+(m)-[:ROAD {time: 87}]->(y),
+(p)-[:ROAD {time: 28}]->(z),
+(r)-[:ROAD {time: 62}]->(s),
+(s)-[:ROAD {time: 338}]->(a1),
+(t)-[:ROAD {time: 6740}]->(a14),
+(u)-[:ROAD {time: 70}]->(a2),
+(u)-[:ROAD {time: 70}]->(v),
+(w)-[:ROAD {time: 718}]->(a3),
+(w)-[:ROAD {time: 169}]->(a4),
+(x)-[:ROAD {time: 75}]->(y),
+(x)-[:ROAD {time: 200}]->(l),
+(y)-[:ROAD {time: 140}]->(a7),
+(y)-[:ROAD {time: 521}]->(a5),
+(y)-[:ROAD {time: 80}]->(a6),
+(a1)-[:ROAD {time: 2330}]->(a13),
+(a2)-[:ROAD {time: 100}]->(a8),
+(a7)-[:ROAD {time: 133}]->(a9),
+(a7)-[:ROAD {time: 55}]->(a10),
+(a9)-[:ROAD {time: 60}]->(a11),
+(a10)-[:ROAD {time: 20}]->(a12),
+(a11)-[:ROAD {time: 134}]->(a15),
+(a12)-[:ROAD {time: 94}]->(a16);
 
 #Busqueda por amplitud
 
-MATCH (start:Station {name: 'Viña Quito'}), (end:Station {name: 'Parque la Carolina' })
+MATCH (start:Station {name: 'Viña Quito'}), (end:Station {name: 'Parque la Carolina'})
 	CALL gds.alpha.shortestPath.stream({
 		nodeProjection: 'Station',
 		relationshipProjection: {
@@ -113,3 +114,171 @@ MATCH (start:Station {name: 'Viña Quito'}), (end:Station {name: 'Parque la Caro
 		})
 		YIELD nodeId, cost
 		RETURN gds.util.asNode(nodeId).name AS name, cost
+
+#Busqueda por A*
+MATCH (start:Station {name: 'Viña Quito'}), (end:Station {name:'Parque La Carolina'})	
+	CALL gds.alpha.shortestPath.astar.stream({ nodeQuery: 'MATCH (p:Station)
+	RETURN id(p) AS id', relationshipQuery:
+	'MATCH (p1:Station)-[r:ROAD]->(p2:Station)
+	RETURN id(p1) AS source, id(p2) AS target, r.time AS weight',
+	startNode: start, endNode: end, relationshipWeightProperty: 'weight', propertyKeyLat: 'latitude', propertyKeyLat: 'longitude'})
+	YIELD nodeId, cost RETURN gds.util.asNode(nodeId).name AS station, cost
+# BUSQUEDA2 A*
+
+MATCH (start:Station {name: 'Viña Quito'}), (end:Station {name: 'Parque la Carolina'})
+CALL gds.alpha.shortestPath.astar.stream({
+  nodeProjection: {
+    Station: {
+      properties: ['longitude', 'latitude']
+    }
+  },
+  relationshipProjection: {
+    ROAD: {
+      type: 'ROAD',
+      orientation: 'UNDIRECTED',
+      properties: 'time'
+    }
+  },
+  startNode: start,
+  endNode: end,
+  propertyKeyLat: 'latitude',
+  propertyKeyLon: 'longitude'
+})
+YIELD nodeId, cost
+RETURN gds.util.asNode(nodeId).name AS station, cost
+
+
+
+
+MATCH (start:Station {name: "Viña Quito"}), (end:Station {name: "Parque La Carolina"})
+CALL gds.alpha.shortestPath.astar.stream({
+  nodeQuery: 'MATCH (p:Station) RETURN id(p) AS id, p.latitude AS latitude, p.longitude AS longitude',
+  relationshipQuery: 'MATCH (p1:Station)-[r:ROAD]->(p2:Station) RETURN id(p1) AS source, id(p2) AS target, r.time AS weight',
+  startNode: start,
+  endNode: end,
+  relationshipWeightProperty: 'weight',
+  propertyKeyLat: 'latitude',
+  propertyKeyLat: 'longitude'
+})
+YIELD nodeId, cost
+RETURN gds.util.asNode(nodeId).name AS station, cost
+
+-----------------------------------------------------------------------------------------------------------------------------------
+MATCH (start:Station {name: 'Viña Quito'}), (end:Station {name: 'Parque La Carolina'})
+CALL gds.alpha.shortestPath.astar.stream({
+  nodeProjection: {
+    Station: {
+      properties: ['longitude', 'latitude']
+    }
+  },
+  relationshipProjection: {
+    ROAD: {
+      type: 'ROAD',
+      orientation: 'UNDIRECTED',
+      properties: 'time'
+    }
+  },
+  startNode: start,
+  endNode: end,
+  propertyKeyLat: 'latitude',
+  propertyKeyLon: 'longitude'
+})
+YIELD nodeId, cost
+RETURN gds.util.asNode(nodeId).name AS station, cost
+
+
+
+#Busqueda por profundidad
+CALL gds.graph.create('myGraph' , 'Station' , 'ROAD' , { relationshipProperties: 'time'})
+		
+	MATCH (a:Station{name:'Viña Quito'})
+	WITH id(a) AS startNode
+	CALL gds.alpha.bfs.stream('myGraph', {startNode: startNode})
+	YIELD path
+	UNWIND [ n in nodes(path) | n.name ] AS tags
+	RETURN tags as places
+	ORDER BY tags
+	
+	MATCH (a:Station{name:'Viña Quito'}), (d:Station{name:'Reina Isabel'}), (e:Station{name:'Caravana Fast Food'})
+	WITH id(a) AS startNode, [id(d), id(e)] AS targetNodes
+	CALL gds.alpha.bfs.stream('myGraph', {startNode: startNode, targetNodes: targetNodes})
+	YIELD path
+	UNWIND [ n in nodes(path) | n.name ] AS tags
+	RETURN tags as places
+	ORDER BY tags
+	
+	MATCH (a:Station{name:'Viña Quito'})
+	WITH id(a) AS startNode
+	CALL gds.alpha.bfs.stream('myGraph', {startNode: startNode, maxDepth: 4})
+	YIELD path
+	UNWIND [ n in nodes(path) | n.name ] AS tags
+	RETURN tags as places
+	ORDER BY tags
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		MATCH (a:Station {name: 'Viña Quito'})
+		WITH id(a) AS startNode
+		CALL gds.alpha.bfs.stream('myGraph',
+				{startNode: startNode,
+				maxCost: 3549,
+				relationshipWeightProperty: 'time'})
+		YIELD path
+		UNWIND [n in nodes(path) | n.name ] AS tags
+		RETURN tags as places
+		ORDER BY tags
+		
+		
+		MATCH (a:Station {name: 'Viña Quito'})
+		WITH id(a) AS startNode
+		CALL gds.alpha.bfs.stream('myGraph',
+				{startNode: startNode,
+				maxDepth: 3,
+				relationshipWeightProperty: 'time'})
+		YIELD path
+		UNWIND [n in nodes(path) | n] AS tags
+		RETURN tags 
+		ORDER BY tags
+		
+		MATCH (a:Station {name: 'Viña Quito'}),(a13:Station{name:'Parque la Carolina'})
+		WITH id(a) AS startNode, [id(a13)] AS targetNodes
+		CALL gds.alpha.bfs.stream('myGraph',
+				{startNode: startNode,
+				targetNodes: targetNodes})
+		YIELD path
+		UNWIND [n in nodes(path) | n.name] AS tags
+		RETURN tags 
+		ORDER BY tags places
+		
+		
+		
+				
+#Busqueda por costo
+MATCH (start:Station {name: 'Viña Quito'}), (end:Station{name: 'Parque la Carolina'})
+	CALL gds.alpha.kShortestPaths.stream({
+		nodeProjection: 'Station',
+		relationshipProjection: {
+			ROAD: {
+				type: 'ROAD',
+				properties: 'time'
+			}
+		},
+		startNode: start,
+		endNode: end,
+		k: 1,
+		relationshipWeightProperty: 'time'
+		})
+		YIELD index, nodeIds, costs
+		RETURN [node IN gds.util.asNodes(nodeIds) | node.name] AS places,costs,
+		reduce(acc = 0.0, cost IN costs | acc + cost) AS totalCost		
+
+
+
+		
